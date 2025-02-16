@@ -11,7 +11,7 @@
 	},
 
 	"dependencies": {
-		"mineflayer": "^2.37.1",
+		"mineflayer": "^4.26.0",
 		"tsx": "^4.7.1"
 	}
 }
